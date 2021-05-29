@@ -1,0 +1,59 @@
+.home h2 {
+    font-weight: 400;
+    font-size: 32px;
+    color: rgba(0, 0, 0, 0.88);
+    line-height: 48px;
+    text-align: center;
+    margin: 48px 0 32px;
+}
+
+#logo {
+    padding: 96px 0 0;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: rgba(0,0,0,0.88);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.home,
+h2 {
+    font-weight: 400;
+    font-size: 32px;
+    color: rgba(0, 0, 0, 0.88);
+    line-height: 48px;
+    text-align: center;
+    margin: 48px 0 32px;
+}
+
+#hero-p {
+    font-size: 16px;
+    color: rgba(0,0,0,0.64);
+    line-height: 24px;
+}
+
+.index a.button {
+    width: 256px;
+    height: 64px;
+    background: #00e6f6;
+    border-radius: 100px;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    line-height: 62px;
+    font-weight: 500;
+    margin: 48px 0 128px;
+    font-size: 16px;
+}
+.index a.button.no-margin {
+    margin-bottom: 16px;
+}
+
+.index a.login {
+    display: block;
+    font-size: 14px;
+    color: rgba(0, 0 , 0, 0.64);
+    margin-bottom: 128px;
+}
