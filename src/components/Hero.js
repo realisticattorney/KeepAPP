@@ -1,6 +1,7 @@
 import React from "react";
 import "../scss/style.scss";
 import telegram from "../scss/telegram-seeklogo.com.svg";
+import freeminder from "../scss/Asset5.svg";
 
 
 const Hero = () => {
@@ -9,17 +10,18 @@ const Hero = () => {
       <div class="inner">
         <div id="logo">
           <a href="index.html">
-            <img src="assets/logo.svg"></img>FreeMinder
+            <img src={freeminder} />
+            FreeMinder
           </a>
           <div class="divider"></div>
-          <img src={telegram}/>
+          <img src={telegram} />
         </div>
         <h2>
           Remember the things <br class="mobile-hide"></br>your team forgets
         </h2>
         <p>
-          FreeMinder remembers things for you so you don’t have to. If you
-          think you will forget it, just tell FreeMinder.
+          FreeMinder remembers things for you so you don’t have to. If you think
+          you will forget it, just tell FreeMinder.
         </p>
         <a
           class="button no-margin"
