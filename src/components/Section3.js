@@ -10,8 +10,8 @@ const Section3 = () => {
       <ul id="memories">
         <li>
           <div class="content">
-            <h3>My office phone number</h3>
-            <p>(555) 284-3943</p>
+            <h3>@mikebrown Birthday party</h3>
+            <p>6 June 2021</p>
           </div>
           <div class="meta">
             <span class="platform">

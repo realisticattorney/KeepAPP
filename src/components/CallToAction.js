@@ -8,7 +8,7 @@ const CallToAction = () => {
       <p class="sub">FREEMINDER is available to chat via Telegram</p>
       <ul class="platforms">
         <li class="slack slack-image">
-          <a href="https://t.me/BritishFamilyButlerBot/">
+          <a href="https://t.me/FreeMinderBot">
             <button
               id="calltoaction"
               style={{
