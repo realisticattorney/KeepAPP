@@ -23,16 +23,10 @@ const Hero = () => {
           FreeMinder remembers things for you so you don’t have to. If you think
           you will forget it, just tell FreeMinder.
         </p>
-        <a
-          class="button no-margin"
-          href="https://slack.com/oauth/authorize?client_id=73177863074.78486309223&amp;redirect_uri=http%3A%2F%2Fwonder-bot.com%2Fusers%2Fauth%2Fslack%2Fcallback&amp;response_type=code&amp;scope=team%3Aread%2Cbot&amp;state=b468f8b13f615fbeefe79a42fe79819ce08f129b8c153c9a"
-        >
+        <a class="button no-margin" href="https://t.me/BritishFamilyButlerBot/">
           <i class="fa fa-slack" aria-hidden="true"></i> Add to Telegram
         </a>
-        <a
-          class="login"
-          href="https://slack.com/oauth/authorize?client_id=73177863074.78486309223&amp;redirect_uri=http%3A%2F%2Fwonder-bot.com%2Fusers%2Fauth%2Fslack%2Fcallback&amp;response_type=code&amp;scope=team%3Aread%2Cbot&amp;state=d5f41d57d79ff158aae7bfd01da26bf653bab7f85e0067b1"
-        >
+        <a class="login" href="https://telegram.org/">
           Sign in with Telegram
         </a>
       </div>
