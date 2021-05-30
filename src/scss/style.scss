@@ -2,6 +2,10 @@
 @import "./tags/header";
 @import "./tags/hero";
 
+.br-footer {
+  display: none;
+}
+
 .index {
   text-align: center;
 }
@@ -1474,9 +1478,27 @@ a {
 }
 
 @media only screen and (max-width: 660px) {
-.introducing {
+  .introducing {
     font-size: 15px;
     padding: 32px;
+  }
 }
 
+
+@media only screen and (max-width: 460px) {
+#footer a {
+font-size: 14px;
+line-height: 30px;
+}
+.br-footer {
+  display: block;
+}
+.dot-gone{
+  display: none;
+}
+}
+@media only screen and (max-width: 395px) {
+.index .platforms li a {
+  padding: 0 0px;
+}
 }
