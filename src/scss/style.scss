@@ -1452,8 +1452,6 @@ a {
   font-style: normal;
 }
 
-
-
 #calltoaction {
   font-family: "Gotham", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-overflow: ellipsis;
@@ -1464,4 +1462,13 @@ a {
   background-position-x: -13px;
   background-position-y: 3px;
   color: rgba(0, 0, 0, 0.64);
+}
+
+.socialmedia-logo {
+  height: 21px;
+  filter: invert(42%) sepia(93%) saturate(0%) hue-rotate(87deg) brightness(69%)
+    contrast(119%);
+}
+.facebook {
+  height: 18px;
 }
