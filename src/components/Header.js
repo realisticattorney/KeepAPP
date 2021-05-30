@@ -3,8 +3,8 @@ import calltoaction from "../scss/telegramexpo1-01.png";
 
 const Header = () => {
   return (
-    <div className="header" style={{ backgroundImage: `url(${calltoaction})` }}>
-      <p className="introducing">Introducing FreeMinder for Telegram</p>
+    <div className="header">
+      <p className="introducing">Introducing <br className="header-separator" />FreeMinder for Telegram</p>
     </div>
   );
 };

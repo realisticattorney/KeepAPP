@@ -1472,3 +1472,11 @@ a {
 .facebook {
   height: 18px;
 }
+
+@media only screen and (max-width: 660px) {
+.introducing {
+    font-size: 15px;
+    padding: 32px;
+}
+
+}
