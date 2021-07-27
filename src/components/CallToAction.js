@@ -3,7 +3,7 @@ import calltoaction2 from "../scss/telegramcalltoactionempty-01.svg";
 
 const CallToAction = () => {
   return (
-    <div class="section inner" id="start-wondering">
+    <div class="section inner">
       <h4>Free Your Mind</h4>
       <p class="sub">FREEMINDER is available to chat via Telegram</p>
       <ul class="platforms">

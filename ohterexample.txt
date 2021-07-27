@@ -97,7 +97,6 @@
               <li>
                 <div
                   class="icon"
-                  style={{ "background-image": "url(assets/slack/wonder.jpg" }}
                 ></div>
                 <div class="text">
                   <h5>Freeminder</h5>
